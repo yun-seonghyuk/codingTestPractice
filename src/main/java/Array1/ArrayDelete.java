@@ -118,6 +118,22 @@ public class ArrayDelete {
             }
 
         System.out.println(sum);
+        boolean[] check = new boolean[5];
+        int[] arr1 = new int[5];
+        int r = 0;
+        int i = 0;
+        while(true){
+            r = ran.nextInt(5);
 
+            if(check[r] == false){
+                check[r] = true;
+                arr1[i] = r;
+                i++;
+            }
+            if(i == check.length){
+                break;
+            }
+        }
+        System.out.println(Arrays.toString(arr1));
     }
 }
