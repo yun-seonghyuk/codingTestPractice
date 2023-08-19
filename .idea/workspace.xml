@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="588e6544-9be8-492e-8ca7-f60b4965b2ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Array3/Array3Basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Array3/ArrayDelete3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stringarray/StringArray1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stringarray/StringArray2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stringarray/StringArray3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stringarray/StringArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array3/ArrayInputPlus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array3/ArrayInputSyoping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array3/ArrayLeftRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stringarray/StringArrayTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stringarray/StringArrayTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stringarray/StringArrayTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stringarray/StringArrayTest5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stringarray/StringArrayTest6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Array1/ArrayDelete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Array1/ArrayDelete.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/JeroBase/codingTest",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,9 +51,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StringArrayTest">
-    <configuration name="ArrayDelete3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array3.ArrayDelete3" />
+  <component name="RunManager" selected="Application.ArrayInputSyoping">
+    <configuration name="ArrayInputPlus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array3.ArrayInputPlus" />
       <module name="roop.main" />
       <extension name="coverage">
         <pattern>
@@ -63,15 +65,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringArray1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringarray.StringArray1" />
+    <configuration name="ArrayInputSyoping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array3.ArrayInputSyoping" />
       <module name="roop.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringArray2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringarray.StringArray2" />
+    <configuration name="ArrayLeftRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array3.ArrayLeftRight" />
+      <module name="roop.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringArrayTest5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringarray.StringArrayTest5" />
       <module name="roop.main" />
       <extension name="coverage">
         <pattern>
@@ -83,21 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringArray3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringarray.StringArray3" />
-      <module name="roop.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stringarray.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringarray.StringArrayTest" />
+    <configuration name="StringArrayTest6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringarray.StringArrayTest6" />
       <module name="roop.main" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringArrayTest" />
-        <item itemvalue="Application.StringArray3" />
-        <item itemvalue="Application.StringArray2" />
-        <item itemvalue="Application.StringArray1" />
-        <item itemvalue="Application.ArrayDelete3" />
+        <item itemvalue="Application.ArrayInputSyoping" />
+        <item itemvalue="Application.ArrayInputPlus" />
+        <item itemvalue="Application.ArrayLeftRight" />
+        <item itemvalue="Application.StringArrayTest6" />
+        <item itemvalue="Application.StringArrayTest5" />
       </list>
     </recent_temporary>
   </component>
@@ -128,6 +136,7 @@
       <option name="presentableId" value="Default" />
       <updated>1692408446316</updated>
       <workItem from="1692408447325" duration="5264000" />
+      <workItem from="1692421547156" duration="7524000" />
     </task>
     <servers />
   </component>
