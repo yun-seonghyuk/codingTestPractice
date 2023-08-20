@@ -5,27 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="588e6544-9be8-492e-8ca7-f60b4965b2ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/array3/Array3Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array3/Array3Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array3/ArrayTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array3/ArrayTest4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array3/ArrayTest5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array3/ArrayTest6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array3/ArrayTest7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array4/Array4WithHeightSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Array1/ArrayDelete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array1/ArrayDelete.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Array2/Array1to4Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array2/Array1to4Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Array2/Array2Basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array2/Array2Basic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Array2/ArrayTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array2/ArrayTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Array2/ArrayTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array2/ArrayTest3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Array2/ArrayTest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array2/ArrayTest4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Array2/ArrayTest5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array2/ArrayTest5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Array3/Array3Basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array3/Array3Basic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Array3/ArrayDelete3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array3/ArrayDelete3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Array3/ArrayInputPlus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array3/ArrayInputPlus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Array3/ArrayInputSyoping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array3/ArrayInputSyoping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Array3/ArrayLeftRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array3/ArrayLeftRight.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +129,7 @@
       <updated>1692408446316</updated>
       <workItem from="1692408447325" duration="5264000" />
       <workItem from="1692421547156" duration="7524000" />
-      <workItem from="1692508194780" duration="7491000" />
+      <workItem from="1692508194780" duration="8069000" />
     </task>
     <servers />
   </component>

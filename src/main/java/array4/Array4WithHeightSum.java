@@ -27,7 +27,7 @@ public class Array4WithHeightSum {
         int sero1[] = {0,0,0}; // {2+8+9 , 4+1+7 , 6+5+3}
         int garoIdx = 0;
         int seroIdx = 0;
-        
+
         for(int i = 0; i < garo1.length; i++){
             for(int j = 0; j < sero1.length; j++){
                 garo1[i] += array[garoIdx++];
