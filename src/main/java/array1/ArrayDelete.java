@@ -1,4 +1,4 @@
-package Array1;
+package array1;
 
 import java.util.Arrays;
 import java.util.Random;
