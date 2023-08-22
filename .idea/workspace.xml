@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="588e6544-9be8-492e-8ca7-f60b4965b2ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/array4/ArrayAnniversary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array4/ArrayFindCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array4/ArrayCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array4/ArrayCompression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array4/ArrayDeduplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array4/ArrayNumberBaseball.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,20 +47,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayAnniversary">
-    <configuration name="Array4WithHeightSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array4.Array4WithHeightSum" />
-      <module name="roop.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ArrayNumberBaseball">
     <configuration name="ArrayAnniversary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array4.ArrayAnniversary" />
       <module name="roop.main" />
@@ -72,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayFindCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array4.ArrayFindCount" />
+    <configuration name="ArrayCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array4.ArrayCompare" />
       <module name="roop.main" />
       <extension name="coverage">
         <pattern>
@@ -85,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayTest6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array3.ArrayTest6" />
+    <configuration name="ArrayCompression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array4.ArrayCompression" />
       <module name="roop.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array3.*" />
+          <option name="PATTERN" value="array4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +87,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayTest7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array3.ArrayTest7" />
+    <configuration name="ArrayDeduplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array4.ArrayDeduplication" />
       <module name="roop.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array3.*" />
+          <option name="PATTERN" value="array4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayNumberBaseball" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array4.ArrayNumberBaseball" />
+      <module name="roop.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayNumberBaseball" />
+        <item itemvalue="Application.ArrayDeduplication" />
+        <item itemvalue="Application.ArrayCompression" />
+        <item itemvalue="Application.ArrayCompare" />
         <item itemvalue="Application.ArrayAnniversary" />
-        <item itemvalue="Application.ArrayFindCount" />
-        <item itemvalue="Application.Array4WithHeightSum" />
-        <item itemvalue="Application.ArrayTest7" />
-        <item itemvalue="Application.ArrayTest6" />
       </list>
     </recent_temporary>
   </component>
@@ -133,6 +135,7 @@
       <workItem from="1692421547156" duration="7524000" />
       <workItem from="1692508194780" duration="8069000" />
       <workItem from="1692595119536" duration="8552000" />
+      <workItem from="1692680437602" duration="8927000" />
     </task>
     <servers />
   </component>
