@@ -18,17 +18,17 @@ public class ArrayDeduplication {
 
         for(int i = 0; i < arr1.length; i++){
             int bNum = arr1[i];
-            int arr1Num = temp[i];
-            for(int j = 0; j < arr1.length; j++){
+            for(int j = i; j < b.length; j++){
+                int arr1Num = temp[j];
+                if(arr1Num == arr1[i]){
+                    arr1[i] = 0;
+                }
                 if(bNum == b[j]){
                     b[j] = 0;
                 }
-                if(arr1Num == arr1[j]){
-                    arr1[j] = 0;
-                }
             }
-        }
 
+        }
         System.out.println(Arrays.toString(arr1));
         System.out.println(Arrays.toString(b));
 

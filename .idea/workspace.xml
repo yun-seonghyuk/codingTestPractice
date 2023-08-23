@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="588e6544-9be8-492e-8ca7-f60b4965b2ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/array4/ArrayCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array4/ArrayCompression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array4/ArrayDeduplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array4/ArrayNumberBaseball.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/array4/ArrayDeduplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array4/ArrayDeduplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +43,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayNumberBaseball">
+  <component name="RunManager" selected="Application.ArrayDeduplication">
     <configuration name="ArrayAnniversary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array4.ArrayAnniversary" />
       <module name="roop.main" />
@@ -136,6 +132,7 @@
       <workItem from="1692508194780" duration="8069000" />
       <workItem from="1692595119536" duration="8552000" />
       <workItem from="1692680437602" duration="8927000" />
+      <workItem from="1692710605327" duration="1398000" />
     </task>
     <servers />
   </component>
