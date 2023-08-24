@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="588e6544-9be8-492e-8ca7-f60b4965b2ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/array4/ArrayMoveNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array4/ArrayPlusGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array4/Array4Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array4/Array4Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array4/Array4Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array4/Array4Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array4/Array4Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array4/Array4Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array4/Array4TicTacToe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,9 +50,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayMoveNumber">
-    <configuration name="ArrayCompression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array4.ArrayCompression" />
+  <component name="RunManager" selected="Application.Array4TicTacToe">
+    <configuration name="Array4Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array4.Array4Test3" />
       <module name="roop.main" />
       <extension name="coverage">
         <pattern>
@@ -59,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayDeduplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array4.ArrayDeduplication" />
+    <configuration name="Array4Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array4.Array4Test4" />
       <module name="roop.main" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayMoveNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array4.ArrayMoveNumber" />
+    <configuration name="Array4Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array4.Array4Test5" />
       <module name="roop.main" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayNumberBaseball" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array4.ArrayNumberBaseball" />
+    <configuration name="Array4Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array4.Array4Test6" />
       <module name="roop.main" />
       <extension name="coverage">
         <pattern>
@@ -98,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayPlusGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array4.ArrayPlusGame" />
+    <configuration name="Array4TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array4.Array4TicTacToe" />
       <module name="roop.main" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayMoveNumber" />
-        <item itemvalue="Application.ArrayPlusGame" />
-        <item itemvalue="Application.ArrayNumberBaseball" />
-        <item itemvalue="Application.ArrayDeduplication" />
-        <item itemvalue="Application.ArrayCompression" />
+        <item itemvalue="Application.Array4TicTacToe" />
+        <item itemvalue="Application.Array4Test6" />
+        <item itemvalue="Application.Array4Test5" />
+        <item itemvalue="Application.Array4Test4" />
+        <item itemvalue="Application.Array4Test3" />
       </list>
     </recent_temporary>
   </component>
@@ -138,6 +143,7 @@
       <workItem from="1692767610588" duration="88000" />
       <workItem from="1692767717787" duration="1511000" />
       <workItem from="1692769242946" duration="8976000" />
+      <workItem from="1692854287327" duration="17158000" />
     </task>
     <servers />
   </component>
