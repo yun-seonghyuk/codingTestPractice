@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="588e6544-9be8-492e-8ca7-f60b4965b2ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/array5/Array5Basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array5/Array5Basic2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array5/Array5Basic3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array5/ArrayHandOutTestPapers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array5/ArrayLadderGames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array5/ArrayTwoRevisedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array5/FindMultipleDecimals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,48 +48,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Array5Basic2">
-    <configuration name="Array4Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array4.Array4Test5" />
-      <module name="roop.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Array4Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array4.Array4Test6" />
-      <module name="roop.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Array4TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array4.Array4TicTacToe" />
-      <module name="roop.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Array5Basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array5.Array5Basic" />
+  <component name="RunManager" selected="Application.ArrayLadderGames">
+    <configuration name="Array5Basic3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array5.Array5Basic3" />
       <module name="roop.main" />
       <extension name="coverage">
         <pattern>
@@ -98,8 +62,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array5Basic2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array5.Array5Basic2" />
+    <configuration name="ArrayHandOutTestPapers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array5.ArrayHandOutTestPapers" />
+      <module name="roop.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayLadderGames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array5.ArrayLadderGames" />
+      <module name="roop.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayTwoRevisedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array5.ArrayTwoRevisedArray" />
+      <module name="roop.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindMultipleDecimals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array5.FindMultipleDecimals" />
       <module name="roop.main" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Array5Basic2" />
-        <item itemvalue="Application.Array5Basic" />
-        <item itemvalue="Application.Array4TicTacToe" />
-        <item itemvalue="Application.Array4Test6" />
-        <item itemvalue="Application.Array4Test5" />
+        <item itemvalue="Application.ArrayLadderGames" />
+        <item itemvalue="Application.ArrayHandOutTestPapers" />
+        <item itemvalue="Application.FindMultipleDecimals" />
+        <item itemvalue="Application.ArrayTwoRevisedArray" />
+        <item itemvalue="Application.Array5Basic3" />
       </list>
     </recent_temporary>
   </component>
@@ -139,6 +142,8 @@
       <workItem from="1692767717787" duration="1511000" />
       <workItem from="1692769242946" duration="8976000" />
       <workItem from="1692854287327" duration="17158000" />
+      <workItem from="1692939638861" duration="10386000" />
+      <workItem from="1692950403909" duration="3000" />
     </task>
     <servers />
   </component>
