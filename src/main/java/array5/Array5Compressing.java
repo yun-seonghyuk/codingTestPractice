@@ -15,8 +15,8 @@ public class Array5Compressing {
 	*/
     public static void main(String[] args) {
 
-        int before[] = {3, 3, 5, 5, 5, 5, 5, 3, 4, 4, 4};
-        int after[][] = new int[4][2];
+        int before[] = {3, 3, 5, 5, 5, 5, 5, 3, 4, 4, 2};
+        int after[][] = new int[5][2];
 
         after[0][0] = before[0];
 
@@ -37,8 +37,8 @@ public class Array5Compressing {
                 after[back][1] = cnt;
             }
 
-            if (after[front - 1][0] != before[i]) {
-                after[front++][0] = before[i];
+            if (after[front - 1][0] != before[i+1]) {
+                after[front++][0] = before[i+1];
             }
 
         }
