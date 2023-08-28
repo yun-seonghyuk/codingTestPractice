@@ -5,21 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="588e6544-9be8-492e-8ca7-f60b4965b2ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/array5/Array5Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array5/Array5Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array5/Array5Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array5/Array5Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array5/Array5Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array5/Array5Test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array5/Array5Test7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array5/Array5Test8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array5/ArrayGraphVertical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array5/Array5Compressing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array5/Array5Decompress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array5/Array5OverdueBooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,22 +39,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/JeroBase/codingTest&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/JeroBase/codingTest",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.ArrayGraphVertical">
-    <configuration name="Array5Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array5.Array5Test5" />
+}]]></component>
+  <component name="RunManager" selected="Application.Array5OverdueBooks">
+    <configuration name="Array5Compressing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array5.Array5Compressing" />
       <module name="roop.main" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array5Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array5.Array5Test6" />
+    <configuration name="Array5Decompress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array5.Array5Decompress" />
       <module name="roop.main" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array5Test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array5.Array5Test7" />
+    <configuration name="Array5OverdueBooks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array5.Array5OverdueBooks" />
       <module name="roop.main" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array5Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array5.Array5Test8" />
+    <configuration name="Array5Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array5.Array5Test1" />
       <module name="roop.main" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array5OverdueBooks" />
+        <item itemvalue="Application.Array5Compressing" />
+        <item itemvalue="Application.Array5Decompress" />
+        <item itemvalue="Application.Array5Test1" />
         <item itemvalue="Application.ArrayGraphVertical" />
-        <item itemvalue="Application.Array5Test7" />
-        <item itemvalue="Application.Array5Test6" />
-        <item itemvalue="Application.Array5Test8" />
-        <item itemvalue="Application.Array5Test5" />
       </list>
     </recent_temporary>
   </component>
@@ -149,6 +150,7 @@
       <workItem from="1692939638861" duration="10386000" />
       <workItem from="1692950403909" duration="3000" />
       <workItem from="1693027414642" duration="14970000" />
+      <workItem from="1693189233219" duration="7702000" />
     </task>
     <servers />
   </component>
