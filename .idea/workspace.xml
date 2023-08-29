@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="588e6544-9be8-492e-8ca7-f60b4965b2ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/array6/CombineEqualNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array6/DeleteEqualNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array6/FindConsecutiveBlanks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array6/InputShopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array6/MoveInputNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array6/PluckingPuppet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array6/PluckingPuppet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array6/TwoPlusTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/array5/Array5Compressing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array5/Array5Compressing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,22 +57,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Array5Compressing">
+  <component name="RunManager" selected="Application.TwoPlusTwo">
     <configuration name="Array5Compressing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array5.Array5Compressing" />
-      <module name="roop.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Array5Decompress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array5.Array5Decompress" />
       <module name="roop.main" />
       <extension name="coverage">
         <pattern>
@@ -90,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array5Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array5.Array5Test1" />
+    <configuration name="CombineEqualNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array6.CombineEqualNumbers" />
       <module name="roop.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array5.*" />
+          <option name="PATTERN" value="array6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +97,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayGraphVertical" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array5.ArrayGraphVertical" />
+    <configuration name="DeleteEqualNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array6.DeleteEqualNumbers" />
       <module name="roop.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array5.*" />
+          <option name="PATTERN" value="array6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoPlusTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array6.TwoPlusTwo" />
+      <module name="roop.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoPlusTwo" />
+        <item itemvalue="Application.CombineEqualNumbers" />
+        <item itemvalue="Application.DeleteEqualNumbers" />
         <item itemvalue="Application.Array5Compressing" />
         <item itemvalue="Application.Array5OverdueBooks" />
-        <item itemvalue="Application.Array5Decompress" />
-        <item itemvalue="Application.Array5Test1" />
-        <item itemvalue="Application.ArrayGraphVertical" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +155,9 @@
       <workItem from="1692950403909" duration="3000" />
       <workItem from="1693027414642" duration="14970000" />
       <workItem from="1693189233219" duration="7702000" />
-      <workItem from="1693237670722" duration="332000" />
+      <workItem from="1693237670722" duration="395000" />
+      <workItem from="1693273333982" duration="9000" />
+      <workItem from="1693286328216" duration="12851000" />
     </task>
     <servers />
   </component>
