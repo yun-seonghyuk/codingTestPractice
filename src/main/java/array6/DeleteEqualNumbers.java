@@ -23,24 +23,16 @@ public class DeleteEqualNumbers {
         int a [] = new int[input.length];
 
         a[0] = input[0];
-
+        int idx = 1;
         for(int i = 1; i < input.length; i++){
             if(input[i-1] != input[i]){
-               a[i] = input[i];
+               a[idx++] = input[i];
             } else {
-                a[i-1] = 0;
+                a[idx-1] = 0;
+                idx--;
             }
         }
         System.out.println(Arrays.toString(a));
-
-        int[] temp = new int[input.length];
-        int idx = 0;
-        for(int i = 0; i < temp.length; i++){
-            if(a[i] != 0){
-                temp[idx++] = a[i];
-            }
-        }
-        System.out.println(Arrays.toString(temp));
 
     }
 

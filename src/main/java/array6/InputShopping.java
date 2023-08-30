@@ -1,5 +1,7 @@
 package array6;
 
+import java.util.Arrays;
+
 public class InputShopping {
     /*
 		 nameList 배열은 상품이름리스트 ,
@@ -27,6 +29,20 @@ public class InputShopping {
         };
         int [] input = {1,2,2,0,0,2,1,1};
 
+        int[] count = new int[3];
+
+        for(int i = 0; i < input.length; i++){
+            if(dataList[input[i]][1] != 0){
+                dataList[input[i]][1]--;
+                count[dataList[input[i]][1]] += 1;
+            }
+        }
+        int result = 0;
+        for(int i = 0; i < count.length; i++){
+            result += dataList[i][0] * count[i];
+        }
+        System.out.println(Arrays.toString(count));
+        System.out.println(result);
 
 
     }

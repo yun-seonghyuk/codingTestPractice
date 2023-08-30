@@ -1,5 +1,7 @@
 package array6;
 
+import java.util.Arrays;
+
 public class FindConsecutiveBlanks {
     /*
 
@@ -18,7 +20,31 @@ public class FindConsecutiveBlanks {
     public static void main(String[] args) {
 
         int arr[] = {0,1,0,0,0,1,0,0};
-        int input = 0;
+        int input = 4;
+        int cnt = 0;
+        int idx = -1;
+
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] == 0) {
+                cnt++;
+            } else {
+                cnt = 0;
+            }
+
+            if (input == cnt) {
+                idx = i;
+                break;
+            }
+        }
+
+        if (idx != -1) {
+            for (int i = input - 1; i <= idx; i++) {
+                arr[i] = 1;
+            }
+            System.out.println(Arrays.toString(arr));
+        } else {
+            System.out.println("x");
+        }
 
     }
 }
