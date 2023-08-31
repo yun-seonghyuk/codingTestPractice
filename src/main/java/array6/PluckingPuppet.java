@@ -40,7 +40,7 @@ public class PluckingPuppet {
         };
 
         int input[] = {1,0,0,3,3,4,4};
-        
+
         for(int i = 0; i < input.length; i++){
             for(int j = 0; j < machine.length; j++){
                 if(machine[j][input[i]] == 1){
