@@ -5,15 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="588e6544-9be8-492e-8ca7-f60b4965b2ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/array6/FindOrderedNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array6/FruitPrices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array6/FruitPrices2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stringarray/StringArray4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stringarray/StringArray5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stringarray/StringArray6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array7/AddingAndDeletingInputs1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array7/AddingAndDeletingInputs2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array7/InputTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array7/ManageStudents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array7/MovieTickets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array7/NumberOf9s.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array7/Paging.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array7/RemoveSingleDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array7/Rotate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/array6/PluckingPuppet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array6/PluckingPuppet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/array6/PluckingPuppet2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array6/PluckingPuppet2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +63,7 @@
       <recent name="C:\JeroBase\codingTest\src\main\java\stringarray" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FruitPrices2">
+  <component name="RunManager" selected="Application.Paging">
     <configuration name="FindOrderedNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array6.FindOrderedNumbers" />
       <module name="roop.main" />
@@ -102,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PluckingPuppet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array6.PluckingPuppet" />
+    <configuration name="Paging" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array7.Paging" />
       <module name="roop.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array6.*" />
+          <option name="PATTERN" value="array7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Paging" />
         <item itemvalue="Application.FruitPrices2" />
         <item itemvalue="Application.FruitPrices" />
         <item itemvalue="Application.PluckingPuppet2" />
         <item itemvalue="Application.FindOrderedNumbers" />
-        <item itemvalue="Application.PluckingPuppet" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +166,7 @@
       <workItem from="1693286328216" duration="12851000" />
       <workItem from="1693373645503" duration="9134000" />
       <workItem from="1693459647263" duration="3926000" />
-      <workItem from="1693463769690" duration="1994000" />
+      <workItem from="1693463769690" duration="4251000" />
     </task>
     <servers />
   </component>
