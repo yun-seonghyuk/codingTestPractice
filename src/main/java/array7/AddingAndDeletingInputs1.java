@@ -1,5 +1,7 @@
 package array7;
 
+import java.util.Arrays;
+
 public class AddingAndDeletingInputs1 {
     /*
 		1) array 배열은 사이즈3이다.
@@ -23,6 +25,40 @@ public class AddingAndDeletingInputs1 {
         int count = 0;
 
         int input[] = {10,20,30,10,30,30};
+        int idx = 0;
+        for(int i = 0; i < input.length; i++){
+            if(i % 2 == 0){
+               boolean check = false;
+                for(int j = 0 ; j < array.length; j++){
+                    if(array[j] == input[i]){
+                        System.out.println(input[i] +" 은 중복됩니다.");
+                        check = true;
+                        break;
+                    }
+                }
+               if(!check){
+                   array[idx++] = input[i];
+                   System.out.println(Arrays.toString(array));
+               }
 
+            } else {
+                boolean check = false;
+                for(int j = 0; j < array.length-1; j++){
+                    if(array[j] == input[i]){
+                        array[j] = array[j+1];
+                        array[j + 1] = 0;
+                        idx--;
+                        check = true;
+                        break;
+                    }
+                }
+
+                if(!check){
+                    System.out.println("삭제할값 없음");
+                } else{
+                    System.out.println(Arrays.toString(array));
+                }
+            }
+        }
     }
 }

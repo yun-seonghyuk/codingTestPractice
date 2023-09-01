@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="588e6544-9be8-492e-8ca7-f60b4965b2ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/stringarray2/Case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stringarray2/NumberChecking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stringarray2/ReplaceWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stringarray2/WordSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stringarray3/ManageEmployees.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/array7/InputTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array7/InputTicket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/array7/ManageStudents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array7/ManageStudents.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/array7/MovieTickets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array7/MovieTickets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/array7/AddingAndDeletingInputs1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array7/AddingAndDeletingInputs1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,13 +60,13 @@
       <recent name="C:\JeroBase\codingTest\src\main\java\stringarray" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ManageStudents">
-    <configuration name="FruitPrices2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array6.FruitPrices2" />
+  <component name="RunManager" selected="Application.AddingAndDeletingInputs1">
+    <configuration name="AddingAndDeletingInputs1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array7.AddingAndDeletingInputs1" />
       <module name="roop.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array6.*" />
+          <option name="PATTERN" value="array7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AddingAndDeletingInputs1" />
         <item itemvalue="Application.ManageStudents" />
         <item itemvalue="Application.MovieTickets" />
         <item itemvalue="Application.InputTicket" />
         <item itemvalue="Application.Paging" />
-        <item itemvalue="Application.FruitPrices2" />
       </list>
     </recent_temporary>
   </component>
@@ -162,6 +165,7 @@
       <workItem from="1693459647263" duration="3926000" />
       <workItem from="1693463769690" duration="4431000" />
       <workItem from="1693545313493" duration="9531000" />
+      <workItem from="1693560097978" duration="3542000" />
     </task>
     <servers />
   </component>
