@@ -1,5 +1,7 @@
 package array7;
 
+import java.util.Arrays;
+
 public class InputTicket {
     /*
 	    영화관 예매를 기록할려고한다. 영화관크기는 4 * 3 사이즈이다 (y , x)
@@ -58,7 +60,7 @@ public class InputTicket {
 
     public static void main(String[] args) {
 
-        int[][] 영화관 = {
+        int[][] cinema = {
                 {0,0,0},
                 {0,0,0},
                 {0,0,0},
@@ -72,8 +74,28 @@ public class InputTicket {
                 {1,1,5422},
                 {0,0,1006},
         };
-
-
+        System.out.println(cinema.length);
+        for(int i = 0; i < input.length; i++){
+            if(cinema[input[i][0]][input[i][1]] == 0){
+                cinema[input[i][0]][input[i][1]] = input[i][2];
+                System.out.println("예매가 완료되었습니다.");
+                for(int j = 0; j < cinema.length; j++){
+                    System.out.println(Arrays.toString(cinema[j]));
+                }
+                System.out.println("-----------------------------------------");
+            } else if(cinema[input[i][0]][input[i][1]] == input[i][2]){
+                cinema[input[i][0]][input[i][1]] = 0;
+                for(int j = 0; j < cinema.length; j++){
+                    System.out.println(Arrays.toString(cinema[j]));
+                }
+                System.out.println("예매를 취소합니다.");
+                System.out.println("-----------------------------------------");
+            }
+            else {
+                System.out.println("예약된 자리입니다.");
+                System.out.println("-----------------------------------------");
+            }
+        }
 
 
 
