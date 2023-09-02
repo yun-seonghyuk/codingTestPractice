@@ -1,5 +1,7 @@
 package array7;
 
+import java.util.Arrays;
+
 public class Rotate {
     /*
      * 문제)  아래 명령어를 입력받을때마다 block배열을 90도 회전해보세요.
@@ -21,6 +23,20 @@ public class Rotate {
                 {13,14,15,16},
         };
 
+
+        for(int i = block.length-1; i >= 0; i--){
+            for(int j = 0; j < block.length; j++){
+                System.out.print(block[j][i]+" ");
+            }
+            System.out.println();
+        }
+        System.out.println();
+        for(int i = 0; i < block.length; i++){
+            for(int j = block[i].length-1; j >= 0; j--){
+                System.out.print(block[j][i]+" ");
+            }
+            System.out.println();
+        }
 
 
     }

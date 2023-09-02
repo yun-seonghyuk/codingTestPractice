@@ -1,5 +1,7 @@
 package array7;
 
+import java.util.Arrays;
+
 public class NumberOf9s {
     /*
 	   mine = {0,9,0},
@@ -19,10 +21,49 @@ public class NumberOf9s {
         int mine[][] = {
                 {0,9,0},
                 {9,0,9},
-                {0,0,9}
+                {0,3,9}
         };
 
+        for(int i = 0; i < mine.length; i++){
+            int idx = 0;
+            for(int j = 0; j < mine[i].length; j++){
+                int size = 0;
+                if(mine[i][j] == 0){
+                    if (j < mine.length - 1 && mine[i][j + 1] == 9) {
+                        size++;
+                    }
+                    if (i < mine.length - 1 && mine[i + 1][j] == 9) {
+                        size++;
+                    }
+                    if (i > 0 && mine[i - 1][j] == 9) {
+                        size++;
+                    }
+                    if (j != 0 && mine[i][j - 1] == 9) {
+                        size++;
+                    }
 
+                    if(j != 0 && i != 0 && mine[i-1][j-1] == 9){
+                        size++;
+                    }
+                    if(j < mine.length-1 && i != 0 && mine[i-1][j+1] == 9){
+                        size++;
+                    }
+                    if(i <= j && j < mine.length-1 && mine[i+1][j+1] == 9){
+                        size++;
+                    }
+                    if(i < mine.length-1 && j != 0 && mine[i+1][j-1] == 9){
+                        size++;
+                    }
+                }
+                if(mine[i][idx] == 0){
+                    mine[i][idx] = size;
+                }
+                idx++;
+            }
+        }
+        for(int i = 0; i < mine.length; i++){
+            System.out.println(Arrays.toString(mine[i]));
+        }
 
     }
 }

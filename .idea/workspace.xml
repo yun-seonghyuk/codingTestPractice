@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="588e6544-9be8-492e-8ca7-f60b4965b2ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/stringarray2/Case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stringarray2/NumberChecking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stringarray2/ReplaceWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stringarray2/WordSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stringarray3/ManageEmployees.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/array7/AddingAndDeletingInputs1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array7/AddingAndDeletingInputs1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/array7/AddingAndDeletingInputs2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array7/AddingAndDeletingInputs2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/array7/NumberOf9s.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array7/NumberOf9s.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/array7/RemoveSingleDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array7/RemoveSingleDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/array7/Rotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array7/Rotate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +58,7 @@
       <recent name="C:\JeroBase\codingTest\src\main\java\stringarray" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AddingAndDeletingInputs1">
+  <component name="RunManager" selected="Application.NumberOf9s">
     <configuration name="AddingAndDeletingInputs1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array7.AddingAndDeletingInputs1" />
       <module name="roop.main" />
@@ -74,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InputTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array7.InputTicket" />
+    <configuration name="AddingAndDeletingInputs2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array7.AddingAndDeletingInputs2" />
       <module name="roop.main" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ManageStudents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array7.ManageStudents" />
+    <configuration name="NumberOf9s" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array7.NumberOf9s" />
       <module name="roop.main" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MovieTickets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array7.MovieTickets" />
+    <configuration name="RemoveSingleDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array7.RemoveSingleDigit" />
       <module name="roop.main" />
       <extension name="coverage">
         <pattern>
@@ -113,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Paging" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array7.Paging" />
+    <configuration name="Rotate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array7.Rotate" />
       <module name="roop.main" />
       <extension name="coverage">
         <pattern>
@@ -128,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberOf9s" />
+        <item itemvalue="Application.Rotate" />
+        <item itemvalue="Application.RemoveSingleDigit" />
+        <item itemvalue="Application.AddingAndDeletingInputs2" />
         <item itemvalue="Application.AddingAndDeletingInputs1" />
-        <item itemvalue="Application.ManageStudents" />
-        <item itemvalue="Application.MovieTickets" />
-        <item itemvalue="Application.InputTicket" />
-        <item itemvalue="Application.Paging" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +163,8 @@
       <workItem from="1693459647263" duration="3926000" />
       <workItem from="1693463769690" duration="4431000" />
       <workItem from="1693545313493" duration="9531000" />
-      <workItem from="1693560097978" duration="3542000" />
+      <workItem from="1693560097978" duration="4190000" />
+      <workItem from="1693645590234" duration="13279000" />
     </task>
     <servers />
   </component>

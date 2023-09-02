@@ -1,5 +1,8 @@
 package array7;
 
+import java.lang.reflect.Array;
+import java.util.Arrays;
+
 public class AddingAndDeletingInputs2 {
     /*
 		1) arr 배열은 사이즈3이다.
@@ -24,5 +27,38 @@ public class AddingAndDeletingInputs2 {
 
         int input[][] = {{10,20},{30,10},{30,30}};
 
+        int idx = 0;
+        for(int i = 0; i < input.length; i++){
+            for(int j = 0; j < input[i].length; j++){
+                if(j == 0){
+                    boolean check = false;
+                   for(int k = 0; k < arr.length; k++){
+                       if(arr[k] == input[i][j]){
+                           check = true;
+                           System.out.println(input[i][j]+" 은 이미 중복됩니다.");
+                           break;
+                       }
+                   }
+                   if(!check){
+                       arr[i] = input[i][j];
+                       System.out.println(Arrays.toString(arr));
+                   }
+                } else if(j == 1){
+                    boolean check = false;
+                    for(int k = 0; k < arr.length; k++){
+                        if(arr[k] == input[i][j]){
+                            check = true;
+                            arr[k] = arr[k+1];
+                            arr[k+1] = 0;
+                            System.out.println(Arrays.toString(arr));
+                            break;
+                        }
+                    }
+                    if(!check){
+                        System.out.println("삭제할 값이 없습니다.");
+                    }
+                }
+            }
+        }
     }
 }
