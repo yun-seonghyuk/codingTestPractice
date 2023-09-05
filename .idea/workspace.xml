@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="588e6544-9be8-492e-8ca7-f60b4965b2ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/phon/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/array5/FindMultipleDecimals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array5/FindMultipleDecimals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phon/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phon/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,6 +165,7 @@
       <workItem from="1693746706450" duration="173000" />
       <workItem from="1693824844525" duration="138000" />
       <workItem from="1693896030055" duration="2130000" />
+      <workItem from="1693917095933" duration="1375000" />
     </task>
     <servers />
   </component>
