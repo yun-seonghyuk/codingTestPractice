@@ -23,7 +23,7 @@ public class FindMultipleDecimals {
                     cnt++;
                 }
             }
-            if (cnt < 3) {
+            if (cnt == 2) {
                 System.out.print(i + " ");
             }
 
